@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Carol
-- 👀 I’m interested in machine learning, continual learning and NLP.
-- 🌱 I’m currently studying in East China Normal University, majoring in Big Data.
-- 💞️ I’m looking to collaborate on, actually, nothing yet lol.
+- 👀 I’m interested in ...
+- 🌱 I’m currently studying in ...
+- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: kaileyu99@gamil.com
 
 <!---
